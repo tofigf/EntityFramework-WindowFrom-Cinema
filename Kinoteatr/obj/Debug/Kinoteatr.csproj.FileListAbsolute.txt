@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\Kinoteatr.exe.config
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\Kinoteatr.exe
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\Kinoteatr.pdb
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.Movie.resources
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.Properties.Resources.resources
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.exe
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.pdb
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.Film_Posters.resources
+C:\Users\User\Desktop\C#  myCreation\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.AddConGen.resources

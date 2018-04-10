@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="49fb02c6670248f2b3df30e29b5625a3" Name="Diagram1">
+        <EntityTypeShape EntityType="CinemaModel.Country" Width="1.5" PointX="3" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.FilmCountry" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.FilmGenre" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Film" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Genre" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Hall" Width="1.5" PointX="10" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Language" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Poster" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Seat" Width="1.5" PointX="12.25" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaModel.Type" Width="1.5" PointX="7.75" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="CinemaModel.FK_FilmCountries_Countries" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_FilmCountries_Films" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_FilmGenres_Films" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_FilmGenres_Genres" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_Films_Languages" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_Films_Languages1" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_Halls_Types" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_Seats_Halls" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaModel.FK_Posters_Posters" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="CinemaModel.Order" Width="1.5" PointX="14.5" PointY="4.25" />
+        <AssociationConnector Association="CinemaModel.FK_Orders_Posters" />
+        <AssociationConnector Association="CinemaModel.FK_Orders_Seats" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
